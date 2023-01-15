@@ -32,3 +32,5 @@
   https://github.com/gaotianliuyun/gao
 17. TVBOX接口资源
   https://github.com/2hacc/TVBox
+18. TVBOX接口资源
+  https://github.com/tv-player/tvbox-line
