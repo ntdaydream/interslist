@@ -4,8 +4,8 @@
   https://github.com/o0HalfLife0o/TVBoxOSC
 3. 接口资源-赞
   https://github.com/vpei/Free-TVUrl-Merge
-4. TVBOX接口资源
-  https://github.com/2hacc/TVBox
+4. 肥猫接口资源-赞
+  https://肥猫.love/
 5. TVBOX接口资源
   https://github.com/liu673cn/box
 6. TVBOX接口资源
@@ -30,5 +30,5 @@
   https://github.com/yutian88881/tvbox
 16. TVBOX接口资源
   https://github.com/gaotianliuyun/gao
-17. 肥猫接口资源-赞
-  https://肥猫.love/
+17. TVBOX接口资源
+  https://github.com/2hacc/TVBox
