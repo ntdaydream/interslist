@@ -2,7 +2,7 @@
   https://github.com/CatVodTVOfficial/TVBoxOSC
 2. keep update,apk release. 
   https://github.com/o0HalfLife0o/TVBoxOSC
-3. 自动获取合并Pluto/TvBox等数据源接口配置文件
+3. 接口资源-赞
   https://github.com/vpei/Free-TVUrl-Merge
 4. TVBOX接口资源
   https://github.com/2hacc/TVBox
@@ -30,3 +30,5 @@
   https://github.com/yutian88881/tvbox
 16. TVBOX接口资源
   https://github.com/gaotianliuyun/gao
+17. 肥猫接口资源-赞
+  https://肥猫.love/
