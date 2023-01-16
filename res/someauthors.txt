@@ -6,8 +6,9 @@
   https://github.com/vpei/Free-TVUrl-Merge
 4. 肥猫接口资源-赞
   https://肥猫.love/
-5. TVBOX接口资源
+5. TVBOX接口资源  有多仓源
   https://github.com/liu673cn/box
+  https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/dc.txt
 6. TVBOX接口资源
   https://github.com/heroaku/TVboxo
 7. TVBOX接口资源
@@ -28,6 +29,7 @@
   https://github.com/cyao2q/files
 15. TVBOX接口资源
   https://github.com/yutian88881/tvbox
+  https://ghproxy.com/https://raw.githubusercontent.com/yutian88881/tvbox/main/duocangpro.txt
 16. TVBOX接口资源
   https://github.com/gaotianliuyun/gao
 17. TVBOX接口资源
