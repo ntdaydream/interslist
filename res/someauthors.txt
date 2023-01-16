@@ -8,7 +8,7 @@
   https://肥猫.love/
 5. TVBOX接口资源  有多仓源
   https://github.com/liu673cn/box
-  https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/dc.txt
+  https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/dm.txt
 6. TVBOX接口资源
   https://github.com/heroaku/TVboxo
 7. TVBOX接口资源
